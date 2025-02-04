@@ -1,6 +1,3 @@
-<!--NAME part -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SoominWoo&fontSize=70&animation=twinkling)
-
 ### 🛠️ Skill Set
 <h4 align="left">Front-End</h4>
 <p align="left">
