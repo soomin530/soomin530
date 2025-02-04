@@ -1,3 +1,6 @@
+<!--NAME part -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Jiheui%20Lee%20&desc=Full%20Stack%20Developer&descAlignY=75&descAlign=60&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4"/>
+
 ### 🛠️ Skill Set
 <br>
 
