@@ -48,13 +48,9 @@
 
 <br>
 
-### 📑 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson)](https://velog.io/@smileperson)
-
-<br>
-
 ### 🪪 Me
-<a href="mailto:soomin9@naver.com"><img src="https://img.shields.io/badge/naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=soomin9@naver.com"/></a>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson)](https://velog.io/@smileperson)
+<a href="mailto:soomin9@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=soomin9@naver.com"/></a>
 
 
 
