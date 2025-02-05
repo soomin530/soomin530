@@ -25,6 +25,14 @@
 </p>
 </p>
 
+<h4 align="left">Collaboration</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=black"/>
+</p>
+</p>
+
 <br>
 
 ### 🔗 Github Stats
