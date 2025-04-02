@@ -38,24 +38,26 @@
 
 <br>
 
-### 🔗 Github Stats
 <table>
-  <thead>
-    <tr>
-      <th>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomin530&layout=compact&hide_border=true&theme=graywhite" />
-        </a>
-      </th>
-    </tr>
-  </thead>
+  <tr>
+    <td width="60%">
+      <h3>🔗 Github Stats</h3>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomin530&layout=compact&hide_border=true&theme=graywhite" />
+      </a>
+    </td>
+    <td width="40%">
+      <h3>🪪 Me</h3>
+      <a href="https://velog.io/@smileperson">
+        <img src="https://velog-readme-stats.vercel.app/api/badge?name=smileperson" alt="Velog's GitHub stats" />
+      </a>
+      <br>
+      <a href="mailto:soomin9@naver.com">
+        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=soomin9@naver.com"/>
+      </a>
+    </td>
+  </tr>
 </table>
-
-<br>
-
-### 🪪 Me
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=smileperson)](https://velog.io/@smileperson)
-<a href="mailto:soomin9@naver.com"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=soomin9@naver.com"/></a>
 
 
 
