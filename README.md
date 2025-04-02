@@ -46,7 +46,7 @@
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomin530&layout=compact&hide_border=true&theme=graywhite" />
       </a>
     </td>
-    <td width="40%">
+    <td width="40%" valign="top">
       <h3>🪪 Me</h3>
       <a href="https://velog.io/@smileperson">
         <img src="https://velog-readme-stats.vercel.app/api/badge?name=smileperson" alt="Velog's GitHub stats" />
