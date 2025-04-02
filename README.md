@@ -43,11 +43,6 @@
   <thead>
     <tr>
       <th>
-          <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=soomin530&show_icons=true&count_private=true&hide=contribs&hide_border=true&theme=graywhite" />
-        </a>
-      </th>
-      <th>
         <a href="https://github.com/anuraghazra/github-readme-stats">
          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soomin530&layout=compact&hide_border=true&theme=graywhite" />
         </a>
